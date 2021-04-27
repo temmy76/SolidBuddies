@@ -506,28 +506,26 @@
         <!-- Core theme JS-->
         <script src="js/scripts.js"></script>
         <script type="text/javascript">
-        
-        $(function(){
+            $(function () {
+                 $.get('data.json', function (obj) {
+                      var str = '<table border=1>';
 
-            //Mengambil data dari file headline.txt dengan fungsi $.get() JQuery
-            $.get('data.json', function(obj){
-               var str = "<table border=1>";
-                    
-                str+="<tr><th>No</th><th>Judul</th><th>Kategori</th><th>Waktu Publish</th><th>Date</th></tr>";
+                      str = '<table class="table"><thead class="thead-dark"><tr><th scope="col">No</th><th scope="col">Kategori</th><th scope="col">Judul</th><th scope="col">Waktu Publish</th><th scope="col">Waktu Scraping</th></tr></thead><tbody>';
 
-                $.each(obj,function(n,data){
-                    str+="<tr><td>"+(n+1)+"</td>";
-                    str+="<td>"+data.judul+"</td>";
-                    str+="<td>"+data.Kategori+"</td>";
-                    str+="<td>"+data.Date+"</td>";
-					str+="<td>"+data.Scrapped+"</td></tr>";
-                });
+                      $.each(obj, function (n, data) {
+                           str += '<tr><td scope=row>' + (n + 1) + '</td>';
+                           str += '<td>' + data.kategori + '</td>'
+                           str += '<td>' + data.judul + '</td>'
+                           str += '<td>' + data.waktu_publish + '</td>'
+                           str += '<td>' + data.waktu_scrapping + '</td></tr>';
+                      });
 
-                str+="</table>";
-                $('#data_json').html(str);
+                      str += '</tbody></table>';
+
+                      $('#data_scrapping').html(str);
+                 });
             });
-        });
-    </script>
+        </script>
     </body>
     
 </html>
