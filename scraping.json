@@ -1,0 +1,722 @@
+[
+      {
+            "Nama": "Nike Kawa",
+            "Tipe": "Men's Shower Slide",
+            "Harga": "Rp 279,000",
+            "Image": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/6ac3cb3d-2342-4e3b-be6b-ffc598516800/kawa-shower-slide-J0WLdd.png"
+      },
+      {
+            "Nama": "Jordan Break",
+            "Tipe": "Slide",
+            "Harga": "Rp 449,000",
+            "Image": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/365df9d3-23db-49b2-a750-c7725e127dbc/jordan-break-slide-QmwKlG.png"
+      },
+      {
+            "Nama": "Nike Victori One",
+            "Tipe": "Men's Slide",
+            "Harga": "Rp 449,000",
+            "Image": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/9893c3aa-14b8-4bae-8ca6-9db6675e410f/victori-one-slide-QTTJHP.png"
+      },
+      {
+            "Nama": "Nike Benassi JDI",
+            "Tipe": "Men's Slide",
+            "Harga": "Rp 449,000",
+            "Image": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/f6742e41-8db8-46bf-912f-0e3332109d93/benassi-jdi-slide-1qTb7loE.png"
+      },
+      {
+            "Nama": "Nike Kepa Kai",
+            "Tipe": "Men's Flip Flop",
+            "Harga": "Rp 449,000",
+            "Image": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/kzl8jgsw9xetmkkkrmwc/kepa-kai-flip-flop-jwXChS.png"
+      },
+      {
+            "Nama": "Nike Mercurial Superfly 7 Club MG",
+            "Tipe": "Multi-Ground Football Boot",
+            "Harga": "Rp 468,000",
+            "Image": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/7c2a9b45-e5f7-4caa-976b-fe02f35c20af/mercurial-superfly-7-club-mg-multi-ground-football-boot-LTw0pW.png"
+      },
+      {
+            "Nama": "Nike Fly.By Mid",
+            "Tipe": "Basketball Shoe",
+            "Harga": "Rp 478,000",
+            "Image": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/0a797e5f-bc4a-407a-9630-d9a6ea3a1dde/flyby-mid-basketball-shoe-Q2Gp58.png"
+      },
+      {
+            "Nama": "Nike Renew Ride",
+            "Tipe": "Men's Running Shoe",
+            "Harga": "Rp 498,000",
+            "Image": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/d92ddb25-4f69-46ed-bbd4-372999672db2/renew-ride-running-shoe-KZRV5k.png"
+      },
+      {
+            "Nama": "Nike Killshot SP",
+            "Tipe": "Men's Shoe",
+            "Harga": "Rp 508,000",
+            "Image": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/67f0f9f0-fd83-4eb3-a4b3-123aba8ef47f/killshot-sp-shoe-0gpfZX.png"
+      },
+      {
+            "Nama": "Nike Victori One",
+            "Tipe": "Men's Printed Slide",
+            "Harga": "Rp 529,000",
+            "Image": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/f156cf8e-e420-4204-8adb-c3a957576b51/victori-one-printed-slide-2ZsMWk.png"
+      },
+      {
+            "Nama": "Nike Asuna",
+            "Tipe": "Men's Slide",
+            "Harga": "Rp 529,000",
+            "Image": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/i1-e1e87585-aca3-463c-b0ca-763aa3abe2d0/asuna-slide-3kk4sc.png"
+      },
+      {
+            "Nama": "Nike Offcourt",
+            "Tipe": "Men's Slide",
+            "Harga": "Rp 529,000",
+            "Image": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/e3f0390b-4ae3-4d0b-a8bd-194db860b6ea/offcourt-slide-ZBxx9j.png"
+      },
+      {
+            "Nama": "Nike Downshifter 10",
+            "Tipe": "Men's Running Shoe",
+            "Harga": "Rp 558,000",
+            "Image": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/3df99592-ee38-4fe7-a51c-0e397cb0b0e5/downshifter-10-running-shoe-CrpbbD.png"
+      },
+      {
+            "Nama": "Nike Revolution 5 EXT",
+            "Tipe": "Men's Running Shoe",
+            "Harga": "Rp 558,000",
+            "Image": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/3102846f-05e4-48e6-8dea-87c766f148d1/revolution-5-ext-running-shoe-2H8c5P.png"
+      },
+      {
+            "Nama": "Nike Mercurial Superfly 7 Club IC",
+            "Tipe": "Indoor/Court Football Shoe",
+            "Harga": "Rp 568,000",
+            "Image": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/b2746a8f-0e3e-4eb8-bc3e-c91c38df0f76/mercurial-superfly-7-club-ic-indoor-court-football-shoe-dzjbnQ.png"
+      },
+      {
+            "Nama": "Nike Killshot OG",
+            "Tipe": "Men's Shoe",
+            "Harga": "Rp 638,000",
+            "Image": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/eae8065e-7697-4a00-bb4c-5bf337f25d03/killshot-og-shoe-9krPwQ.png"
+      },
+      {
+            "Nama": "Kyrie Flytrap 4 EP",
+            "Tipe": "Basketball Shoe",
+            "Harga": "Rp 638,000",
+            "Image": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/b83e48df-3de3-4f91-a3e1-8fec948d89ae/kyrie-flytrap-4-ep-basketball-shoe-qzg21C.png"
+      },
+      {
+            "Nama": "Nike Renew Lucent II",
+            "Tipe": "Men's Shoe",
+            "Harga": "Rp 658,000",
+            "Image": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/ad263531-a5cb-4452-9b5e-6e6a53decae9/renew-lucent-ii-shoe-kkNSbW.png"
+      },
+      {
+            "Nama": "Nike Tiempo Legend 8 Academy MG",
+            "Tipe": "Multi-Ground Football Boot",
+            "Harga": "Rp 698,000",
+            "Image": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/97b10eb0-55ce-44e8-b24c-56f67b6cf192/tiempo-legend-8-academy-mg-multi-ground-football-boot-pvFMg4.png"
+      },
+      {
+            "Nama": "Nike Tiempo Legend 8 Club MG",
+            "Tipe": "Multi-Ground Football Boot",
+            "Harga": "Rp 699,000",
+            "Image": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/9e6067be-349d-440a-a184-5023538118e2/tiempo-legend-8-club-mg-multi-ground-football-boot-zxlkGn.png"
+      },
+      {
+            "Nama": "Nike Downshifter 10 Premium",
+            "Tipe": "Running Shoe",
+            "Harga": "Rp 718,000",
+            "Image": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/20d2b0a6-1d0c-42d9-bfa3-4cfc0a729bfe/downshifter-10-running-shoe-gwh7W3.png"
+      },
+      {
+            "Nama": "Nike Air Monarch IV",
+            "Tipe": "Men's Training Shoe",
+            "Harga": "Rp 749,000",
+            "Image": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/zjp8fptkt8xvzszzmskz/air-monarch-iv-training-shoe-cc3XbD.png"
+      },
+      {
+            "Nama": "Nike Asuna Crater",
+            "Tipe": "Men's Slide",
+            "Harga": "Rp 749,000",
+            "Image": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/f9f16454-6d19-4599-a1a3-f7eb4e3dc41c/asuna-crater-slide-XXhmKm.png"
+      },
+      {
+            "Nama": "NikeCourt Legacy Canvas",
+            "Tipe": "Men's Shoe",
+            "Harga": "Rp 749,000",
+            "Image": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/eb891014-5e65-4522-b214-5f99c9d78b46/nikecourt-legacy-canvas-shoe-0wXxWF.png"
+      },
+      {
+            "Nama": "Nike Kawa",
+            "Tipe": "Men's Shower Slide",
+            "Harga": "Rp 279,000",
+            "Image": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/6ac3cb3d-2342-4e3b-be6b-ffc598516800/kawa-shower-slide-J0WLdd.png"
+      },
+      {
+            "Nama": "Jordan Break",
+            "Tipe": "Slide",
+            "Harga": "Rp 449,000",
+            "Image": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/365df9d3-23db-49b2-a750-c7725e127dbc/jordan-break-slide-QmwKlG.png"
+      },
+      {
+            "Nama": "Nike Victori One",
+            "Tipe": "Men's Slide",
+            "Harga": "Rp 449,000",
+            "Image": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/9893c3aa-14b8-4bae-8ca6-9db6675e410f/victori-one-slide-QTTJHP.png"
+      },
+      {
+            "Nama": "Nike Benassi JDI",
+            "Tipe": "Men's Slide",
+            "Harga": "Rp 449,000",
+            "Image": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/f6742e41-8db8-46bf-912f-0e3332109d93/benassi-jdi-slide-1qTb7loE.png"
+      },
+      {
+            "Nama": "Nike Kepa Kai",
+            "Tipe": "Men's Flip Flop",
+            "Harga": "Rp 449,000",
+            "Image": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/kzl8jgsw9xetmkkkrmwc/kepa-kai-flip-flop-jwXChS.png"
+      },
+      {
+            "Nama": "Nike Mercurial Superfly 7 Club MG",
+            "Tipe": "Multi-Ground Football Boot",
+            "Harga": "Rp 468,000",
+            "Image": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/7c2a9b45-e5f7-4caa-976b-fe02f35c20af/mercurial-superfly-7-club-mg-multi-ground-football-boot-LTw0pW.png"
+      },
+      {
+            "Nama": "Nike Fly.By Mid",
+            "Tipe": "Basketball Shoe",
+            "Harga": "Rp 478,000",
+            "Image": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/0a797e5f-bc4a-407a-9630-d9a6ea3a1dde/flyby-mid-basketball-shoe-Q2Gp58.png"
+      },
+      {
+            "Nama": "Nike Renew Ride",
+            "Tipe": "Men's Running Shoe",
+            "Harga": "Rp 498,000",
+            "Image": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/d92ddb25-4f69-46ed-bbd4-372999672db2/renew-ride-running-shoe-KZRV5k.png"
+      },
+      {
+            "Nama": "Nike Killshot SP",
+            "Tipe": "Men's Shoe",
+            "Harga": "Rp 508,000",
+            "Image": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/67f0f9f0-fd83-4eb3-a4b3-123aba8ef47f/killshot-sp-shoe-0gpfZX.png"
+      },
+      {
+            "Nama": "Nike Victori One",
+            "Tipe": "Men's Printed Slide",
+            "Harga": "Rp 529,000",
+            "Image": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/f156cf8e-e420-4204-8adb-c3a957576b51/victori-one-printed-slide-2ZsMWk.png"
+      },
+      {
+            "Nama": "Nike Asuna",
+            "Tipe": "Men's Slide",
+            "Harga": "Rp 529,000",
+            "Image": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/i1-e1e87585-aca3-463c-b0ca-763aa3abe2d0/asuna-slide-3kk4sc.png"
+      },
+      {
+            "Nama": "Nike Offcourt",
+            "Tipe": "Men's Slide",
+            "Harga": "Rp 529,000",
+            "Image": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/e3f0390b-4ae3-4d0b-a8bd-194db860b6ea/offcourt-slide-ZBxx9j.png"
+      },
+      {
+            "Nama": "Nike Downshifter 10",
+            "Tipe": "Men's Running Shoe",
+            "Harga": "Rp 558,000",
+            "Image": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/3df99592-ee38-4fe7-a51c-0e397cb0b0e5/downshifter-10-running-shoe-CrpbbD.png"
+      },
+      {
+            "Nama": "Nike Revolution 5 EXT",
+            "Tipe": "Men's Running Shoe",
+            "Harga": "Rp 558,000",
+            "Image": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/3102846f-05e4-48e6-8dea-87c766f148d1/revolution-5-ext-running-shoe-2H8c5P.png"
+      },
+      {
+            "Nama": "Nike Mercurial Superfly 7 Club IC",
+            "Tipe": "Indoor/Court Football Shoe",
+            "Harga": "Rp 568,000",
+            "Image": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/b2746a8f-0e3e-4eb8-bc3e-c91c38df0f76/mercurial-superfly-7-club-ic-indoor-court-football-shoe-dzjbnQ.png"
+      },
+      {
+            "Nama": "Nike Killshot OG",
+            "Tipe": "Men's Shoe",
+            "Harga": "Rp 638,000",
+            "Image": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/eae8065e-7697-4a00-bb4c-5bf337f25d03/killshot-og-shoe-9krPwQ.png"
+      },
+      {
+            "Nama": "Kyrie Flytrap 4 EP",
+            "Tipe": "Basketball Shoe",
+            "Harga": "Rp 638,000",
+            "Image": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/b83e48df-3de3-4f91-a3e1-8fec948d89ae/kyrie-flytrap-4-ep-basketball-shoe-qzg21C.png"
+      },
+      {
+            "Nama": "Nike Renew Lucent II",
+            "Tipe": "Men's Shoe",
+            "Harga": "Rp 658,000",
+            "Image": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/ad263531-a5cb-4452-9b5e-6e6a53decae9/renew-lucent-ii-shoe-kkNSbW.png"
+      },
+      {
+            "Nama": "Nike Tiempo Legend 8 Academy MG",
+            "Tipe": "Multi-Ground Football Boot",
+            "Harga": "Rp 698,000",
+            "Image": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/97b10eb0-55ce-44e8-b24c-56f67b6cf192/tiempo-legend-8-academy-mg-multi-ground-football-boot-pvFMg4.png"
+      },
+      {
+            "Nama": "Nike Tiempo Legend 8 Club MG",
+            "Tipe": "Multi-Ground Football Boot",
+            "Harga": "Rp 699,000",
+            "Image": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/9e6067be-349d-440a-a184-5023538118e2/tiempo-legend-8-club-mg-multi-ground-football-boot-zxlkGn.png"
+      },
+      {
+            "Nama": "Nike Downshifter 10 Premium",
+            "Tipe": "Running Shoe",
+            "Harga": "Rp 718,000",
+            "Image": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/20d2b0a6-1d0c-42d9-bfa3-4cfc0a729bfe/downshifter-10-running-shoe-gwh7W3.png"
+      },
+      {
+            "Nama": "Nike Air Monarch IV",
+            "Tipe": "Men's Training Shoe",
+            "Harga": "Rp 749,000",
+            "Image": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/zjp8fptkt8xvzszzmskz/air-monarch-iv-training-shoe-cc3XbD.png"
+      },
+      {
+            "Nama": "Nike Asuna Crater",
+            "Tipe": "Men's Slide",
+            "Harga": "Rp 749,000",
+            "Image": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/f9f16454-6d19-4599-a1a3-f7eb4e3dc41c/asuna-crater-slide-XXhmKm.png"
+      },
+      {
+            "Nama": "NikeCourt Legacy Canvas",
+            "Tipe": "Men's Shoe",
+            "Harga": "Rp 749,000",
+            "Image": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/eb891014-5e65-4522-b214-5f99c9d78b46/nikecourt-legacy-canvas-shoe-0wXxWF.png"
+      },
+      {
+            "Nama": "KD Trey 5 VIII EP",
+            "Tipe": "Basketball Shoe",
+            "Harga": "Rp 768,000",
+            "Image": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/cf98ef78-8cbc-4832-abd1-a83801c67fce/kd-trey-5-viii-ep-basketball-shoe-k4bhfx.png"
+      },
+      {
+            "Nama": "Nike Quest 3 Premium",
+            "Tipe": "Running Shoe",
+            "Harga": "Rp 768,000",
+            "Image": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/be6c5a97-0765-430e-aa5f-4a347b17d6a2/quest-3-running-shoe-5fWzR3.png"
+      },
+      {
+            "Nama": "Nike Air Max VG-R",
+            "Tipe": "Men's Shoe",
+            "Harga": "Rp 768,000",
+            "Image": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/c5325259-2b30-48fe-a833-29fda26f80af/air-max-vg-r-shoe-sZk6Pl.png"
+      },
+      {
+            "Nama": "Nike Quest 2",
+            "Tipe": "Men's Running Shoe",
+            "Harga": "Rp 798,000",
+            "Image": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/51d20507-f788-4d13-9eff-77c4465f8cb2/quest-2-running-shoe-Rk7JBT.png"
+      },
+      {
+            "Nama": "Nike Flex Experience Run 9",
+            "Tipe": "Men's Running Shoe",
+            "Harga": "Rp 799,000",
+            "Image": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/02b77950-c142-41ff-95c7-25b7e59886d1/flex-experience-run-9-running-shoe-HdHB7f.png"
+      },
+      {
+            "Nama": "Nike Revolution 5",
+            "Tipe": "Men's Running Shoe",
+            "Harga": "Rp 799,000",
+            "Image": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/dba38f61-24cb-4f48-b7aa-bbb85d6d00ca/revolution-5-running-shoe-szF7CS.png"
+      },
+      {
+            "Nama": "Nike Fly.By Mid 2",
+            "Tipe": "Basketball Shoe",
+            "Harga": "Rp 799,000",
+            "Image": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/087ecc2d-787c-47bc-9dbb-a75797938ebc/flyby-mid-2-basketball-shoe-SlRjXM.png"
+      },
+      {
+            "Nama": "Nike Revolution 5",
+            "Tipe": "Men's Running Shoe (Extra Wide)",
+            "Harga": "Rp 799,000",
+            "Image": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/mf7gnxfcdyjunxtsldkg/revolution-5-running-shoe-pMswp4.png"
+      },
+      {
+            "Nama": "Nike Flex Experience Run 10",
+            "Tipe": "Men's Running Shoe",
+            "Harga": "Rp 799,000",
+            "Image": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/dc6d8d9b-d102-4824-a46b-f1f340569dfc/flex-experience-run-10-running-shoe-GP3QBV.png"
+      },
+      {
+            "Nama": "Nike Wearallday",
+            "Tipe": "Men's Shoe",
+            "Harga": "Rp 799,000",
+            "Image": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/61f7a32f-c11c-4e09-805a-f7929945f257/wearallday-shoe-NpvSP5.png"
+      },
+      {
+            "Nama": "NikeCourt Royale AC",
+            "Tipe": "Men's Shoe",
+            "Harga": "Rp 799,000",
+            "Image": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/ey07fx9gpdw2kynl7f7o/nikecourt-royale-ac-shoe-mJgNcr.png"
+      },
+      {
+            "Nama": "Nike Revolution 5 FlyEase",
+            "Tipe": "Men's Running Shoe",
+            "Harga": "Rp 799,000",
+            "Image": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/6378dc8c-b3e9-4f5f-bacd-d3c0b2ec4a53/revolution-5-flyease-running-shoe-CMTBvv.png"
+      },
+      {
+            "Nama": "Nike Mercurial Vapor 14 Club FG/MG",
+            "Tipe": "Multi-Ground Football Boot",
+            "Harga": "Rp 799,000",
+            "Image": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/b2dd77f3-5c14-4fa1-8687-d3c1908fd6a6/mercurial-vapor-14-club-fg-mg-multi-ground-football-boot-t74W26.png"
+      },
+      {
+            "Nama": "Nike Phantom GT Club MG",
+            "Tipe": "Multi-Ground Football Boot",
+            "Harga": "Rp 799,000",
+            "Image": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/a74debd7-e8d8-48c6-aec4-b5087d695e13/phantom-gt-club-mg-multi-ground-football-boot-w8b3FB.png"
+      },
+      {
+            "Nama": "Nike Revolution 5 Premium",
+            "Tipe": "Men's Running Shoe",
+            "Harga": "Rp 799,000",
+            "Image": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/8ba3df69-e044-4745-abfb-57978b6cc934/revolution-5-running-shoe-nCRW2p.png"
+      },
+      {
+            "Nama": "Nike Legend Essential 2",
+            "Tipe": "Men's Training Shoe",
+            "Harga": "Rp 799,000",
+            "Image": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/b192a8ec-b3df-426f-9544-bc97b2bb40e1/legend-essential-2-training-shoe-5z5dH3.png"
+      },
+      {
+            "Nama": "Nike Court Vision Low",
+            "Tipe": "Shoe",
+            "Harga": "Rp 799,000",
+            "Image": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/kdw6u63ywdxtddlaws5l/court-vision-low-shoe-bv8p57.png"
+      },
+      {
+            "Nama": "Nike Skyve Max",
+            "Tipe": "Men's Shoe",
+            "Harga": "Rp 818,000",
+            "Image": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/1d0c5991-08a6-4d32-918d-0137a001cf65/skyve-max-shoe-pbX2NP.png"
+      },
+      {
+            "Nama": "Nike Zoom Rize 2",
+            "Tipe": "Basketball Shoe",
+            "Harga": "Rp 838,000",
+            "Image": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/d00a874d-ecab-4c70-b47f-899bfe237a02/zoom-rize-2-basketball-shoe-Fwb6jc.png"
+      },
+      {
+            "Nama": "Nike Blazer Low '77 Vintage",
+            "Tipe": "Men's Shoe",
+            "Harga": "Rp 838,000",
+            "Image": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/5f8bee8c-412e-4ed7-a9fd-537647121ede/blazer-low-77-vintage-shoe-5Gw9TZ.png"
+      },
+      {
+            "Nama": "Nike Air Zoom Winflo 7",
+            "Tipe": "Men's Running Shoe",
+            "Harga": "Rp 858,000",
+            "Image": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/4770a376-c1fe-4fc4-a8ea-a64e225199c9/air-zoom-wio-7-running-shoe-v3Tv0C.png"
+      },
+      {
+            "Nama": "Nike DBreak-Type",
+            "Tipe": "Men's Shoe",
+            "Harga": "Rp 898,000",
+            "Image": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/83d9d304-6afa-4cd8-8141-28844c0fc552/dbreak-type-shoe-XbSXwH.png"
+      },
+      {
+            "Nama": "Nike Challenger OG",
+            "Tipe": "Men's Shoe",
+            "Harga": "Rp 898,000",
+            "Image": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/b96e11af-1d87-4dda-b187-4edf0bf6d1df/challenger-og-shoe-sBjMb3.png"
+      },
+      {
+            "Nama": "Nike DBreak-Type",
+            "Tipe": "Men's Shoe",
+            "Harga": "Rp 898,000",
+            "Image": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/5e19ea35-d868-4aa0-ba3c-99947a8a03d8/dbreak-type-shoe-vMxhFK.png"
+      },
+      {
+            "Nama": "Zoom Freak 2",
+            "Tipe": "Basketball Shoe",
+            "Harga": "Rp 898,000",
+            "Image": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/b2351ed7-204f-4b6f-9929-70cf65d0253c/zoom-freak-2-basketball-shoe-kgljjf.png"
+      },
+      {
+            "Nama": "Nike DBreak-Type",
+            "Tipe": "Men's Shoe",
+            "Harga": "Rp 898,000",
+            "Image": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/ca4f6abb-d465-4abb-9e3d-b2e1ff2002d0/dbreak-type-shoe-V92Tlz.png"
+      },
+      {
+            "Nama": "Nike Varsity Compete TR 3",
+            "Tipe": "Men's Training Shoe",
+            "Harga": "Rp 899,000",
+            "Image": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/500d2e6c-100b-4119-bf3b-8770a94ff258/varsity-compete-tr-3-training-shoe-lDS9nn.png"
+      },
+      {
+            "Nama": "Nike Precision 4",
+            "Tipe": "Basketball Shoe",
+            "Harga": "Rp 899,000",
+            "Image": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/e75aff37-2204-459f-bacb-9ccec1f4ec56/precision-4-basketball-shoe-JVhRs8.png"
+      },
+      {
+            "Nama": "Nike SB Check Solarsoft Canvas",
+            "Tipe": "Skate Shoe",
+            "Harga": "Rp 899,000",
+            "Image": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/c0574448-20e4-4647-82df-96f71301c9f5/sb-check-solarsoft-canvas-skate-shoe-GPTg3nJP.png"
+      },
+      {
+            "Nama": "NikeCourt Lite 2",
+            "Tipe": "Men's Hard Court Tennis Shoe",
+            "Harga": "Rp 899,000",
+            "Image": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/f8qklisy0keppw9fgluq/nikecourt-lite-2-hard-court-tennis-shoe-RzbD9h.png"
+      },
+      {
+            "Nama": "Nike Court Vintage Premium",
+            "Tipe": "Men's Shoe",
+            "Harga": "Rp 899,000",
+            "Image": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/ff10f311-55a5-445f-8538-8d25b94e6a36/court-vintage-shoe-bvP4d4.png"
+      },
+      {
+            "Nama": "Nike Mercurial Superfly 8 Club MG",
+            "Tipe": "Multi-Ground Football Boot",
+            "Harga": "Rp 949,000",
+            "Image": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/0dffa257-fbff-45e5-9421-754da80b1c04/mercurial-superfly-8-club-mg-multi-ground-football-boot-d8z5C3.png"
+      },
+      {
+            "Nama": "Nike Phantom GT Club Dynamic Fit MG",
+            "Tipe": "Multi-Ground Football Boot",
+            "Harga": "Rp 949,000",
+            "Image": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/812db6bc-8f0a-4648-99ba-aeabf36cb1c2/phantom-gt-club-dynamic-fit-mg-multi-ground-football-boot-StKgLq.png"
+      },
+      {
+            "Nama": "Nike Blazer Mid '77 NRG",
+            "Tipe": "Men's Shoe",
+            "Harga": "Rp 988,000",
+            "Image": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/105cd843-b871-4db4-ab66-cdf71ba9992c/blazer-mid-77-nrg-shoe-VmvG1W.png"
+      },
+      {
+            "Nama": "LeBron Witness 5 EP",
+            "Tipe": "Basketball Shoe",
+            "Harga": "Rp 998,000",
+            "Image": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/423f12ab-6f18-4a81-886b-5345c2070a48/lebron-witness-5-ep-basketball-shoe-RRFJkZ.png"
+      },
+      {
+            "Nama": "Sustainable Materials",
+            "Tipe": "Nike DBreak-Type",
+            "Harga": "1 Colour",
+            "Image": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/43442756-836a-4ca9-b8db-f704279339b4/dbreak-type-shoe-HT2s0w.png"
+      },
+      {
+            "Nama": "Nike Phantom Scorpion Academy Dynamic Fit TF",
+            "Tipe": "Artificial-Turf Football Shoe",
+            "Harga": "Rp 998,000",
+            "Image": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/9133e2f4-d77e-4a28-9162-d8143a267de6/phantom-scorpion-academy-dynamic-fit-tf-artificial-football-shoe-hpPgP7.png"
+      },
+      {
+            "Nama": "Sold Out",
+            "Tipe": "Nike Mercurial Superfly 7 Academy MDS TF",
+            "Harga": "1 Colour",
+            "Image": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/b9800c55-c154-4fd9-add5-542e7e74af76/mercurial-superfly-7-academy-mds-tf-artificial-football-shoe-WNJLxr.png"
+      },
+      {
+            "Nama": "Nike Legend React 3",
+            "Tipe": "Men's Running Shoe",
+            "Harga": "Rp 998,000",
+            "Image": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/03a9761f-c920-4a45-bcbb-1e2c51418d10/legend-react-3-running-shoe-CpJT3z.png"
+      },
+      {
+            "Nama": "Jordan Westbrook One Take PF",
+            "Tipe": "Basketball Shoe",
+            "Harga": "Rp 998,000",
+            "Image": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/d75516ee-96e1-45a6-a07f-6a8a2a421569/jordan-westbrook-one-take-pf-basketball-shoe-gCSh03.png"
+      },
+      {
+            "Nama": "Nike SB Zoom Blazer Mid Edge",
+            "Tipe": "Skate Shoe",
+            "Harga": "Rp 998,000",
+            "Image": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/9024acfe-742b-4939-818b-f889703e9d56/sb-zoom-blazer-mid-edge-skate-shoe-zpLvZm.png"
+      },
+      {
+            "Nama": "Nike DBreak-Type SE",
+            "Tipe": "Men's Shoe",
+            "Harga": "Rp 998,000",
+            "Image": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/9ebc9f12-aa5e-4e13-ae93-921b55db72ca/dbreak-type-se-shoe-4wM3QK.png"
+      },
+      {
+            "Nama": "Nike Air Max Fusion",
+            "Tipe": "Men's Shoe",
+            "Harga": "Rp 999,000",
+            "Image": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/087a536d-11ca-440d-a444-51b50b4b6240/air-max-fusion-shoe-N3MFJN.png"
+      },
+      {
+            "Nama": "Nike Canyon",
+            "Tipe": "Men's Sandal",
+            "Harga": "Rp 999,000",
+            "Image": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/bf58845b-a9b2-4621-9dc8-a3e2258c9dfa/canyon-sandal-4D0TT7.png"
+      },
+      {
+            "Nama": "Nike Quest 3",
+            "Tipe": "Men's Running Shoe",
+            "Harga": "Rp 999,000",
+            "Image": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/0d765d06-0c45-4c39-a783-af6a3c4248f6/quest-3-running-shoe-0qDXNf.png"
+      },
+      {
+            "Nama": "Nike Tiempo Legend 8 Academy IC",
+            "Tipe": "Indoor/Court Football Shoe",
+            "Harga": "Rp 999,000",
+            "Image": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/4e28b6d9-cf32-44be-8a5f-e06c928f730a/tiempo-legend-8-academy-ic-indoor-court-football-shoe-fdZTh0.png"
+      },
+      {
+            "Nama": "Nike Renew Elevate",
+            "Tipe": "Basketball Shoe",
+            "Harga": "Rp 999,000",
+            "Image": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/cf9605a1-fc07-4227-b221-2b95a326469f/renew-elevate-basketball-shoe-pbNDZ0.png"
+      },
+      {
+            "Nama": "Nike Tiempo Legend 8 Academy TF",
+            "Tipe": "Artificial-Turf Football Shoe",
+            "Harga": "Rp 999,000",
+            "Image": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/6fc689c1-11a6-4e4d-8ac5-e14ffb5ade14/tiempo-legend-8-academy-tf-artificial-football-shoe-951TSW.png"
+      },
+      {
+            "Nama": "Nike Precision 5",
+            "Tipe": "Basketball Shoe",
+            "Harga": "Rp 999,000",
+            "Image": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/dea1b5c1-f0b3-4b7a-ab11-ce7b4e6519dd/precision-5-basketball-shoe-dRqLr4.png"
+      },
+      {
+            "Nama": "Nike ZoomX SuperRep Surge",
+            "Tipe": "Men's Endurance Class Shoe",
+            "Harga": "Rp 1,048,000",
+            "Image": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/f7788755-7f2e-465b-8cbf-4353b1af405d/zoomx-superrep-surge-endurance-class-shoe-qZ51xw.png"
+      },
+      {
+            "Nama": "Sustainable Materials",
+            "Tipe": "Nike Air Force 1 Crater",
+            "Harga": "1 Colour",
+            "Image": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/0f589781-8ff0-4382-a6f5-38a0e980a78c/air-force-1-crater-shoe-Z7JHnk.png"
+      },
+      {
+            "Nama": "Nike Air Max 95 (Nigeria Football Federation)",
+            "Tipe": "Men's Shoe",
+            "Harga": "Rp 1,088,000",
+            "Image": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/73b268bc-3ebf-4f76-9bbf-69f49bfba377/air-max-95-shoe-Cf3B6J.png"
+      },
+      {
+            "Nama": "Kyrie Flytrap 3 EP",
+            "Tipe": "Basketball Shoe",
+            "Harga": "Rp 1,099,000",
+            "Image": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/i1-3d761227-6acf-4327-abf4-0bdbbd4c44a5/kyrie-flytrap-3-ep-basketball-shoe-0qb5vw.png"
+      },
+      {
+            "Nama": "NikeCourt Vapor Lite",
+            "Tipe": "Men's Hard Court Tennis Shoe",
+            "Harga": "Rp 1,099,000",
+            "Image": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/f916f91f-2f35-4749-b780-75c164b8ed7e/nikecourt-vapor-lite-hard-court-tennis-shoe-rkl5kR.png"
+      },
+      {
+            "Nama": "Nike SB Zoom Blazer Low Pro GT",
+            "Tipe": "Skate Shoe",
+            "Harga": "Rp 1,099,000",
+            "Image": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/bfca3ec5-c16b-46d2-92c3-eccd35b7d4ea/sb-zoom-blazer-low-pro-gt-skate-shoe-ckWK6g.png"
+      },
+      {
+            "Nama": "Nike Roshe G",
+            "Tipe": "Men's Golf Shoe",
+            "Harga": "Rp 1,099,000",
+            "Image": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/oorjo5exj9ykjbncp0jk/roshe-g-golf-shoe-nPqpdM.png"
+      },
+      {
+            "Nama": "PG 4 EP",
+            "Tipe": "Basketball Shoe",
+            "Harga": "Rp 1,148,000",
+            "Image": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/f95b9a49-9ba7-4d7f-bc1e-928e00b28695/pg-4-ep-basketball-shoe-4WnQdd.png"
+      },
+      {
+            "Nama": "Jordan Air Cadence",
+            "Tipe": "Men's Shoe",
+            "Harga": "Rp 1,148,000",
+            "Image": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/966f87c9-6d54-49fb-9ae8-34873e8bd098/jordan-air-cadence-shoe-R3WmG9.png"
+      },
+      {
+            "Nama": "Jordan Jumpman 2020 PF",
+            "Tipe": "Men's Basketball Shoe",
+            "Harga": "Rp 1,148,000",
+            "Image": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/i1-391d05ff-358b-4b68-91f7-126585b6fde5/jordan-jumpman-2020-pf-basketball-shoe-CHhKGl.png"
+      },
+      {
+            "Nama": "Nike React Vision",
+            "Tipe": "Men's Shoe",
+            "Harga": "Rp 1,188,000",
+            "Image": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/90c7e276-511f-49fd-bd52-ed29a32c1559/react-vision-shoe-wPCgT5.png"
+      },
+      {
+            "Nama": "Kyrie 6 (Team) EP",
+            "Tipe": "Basketball Shoe",
+            "Harga": "Rp 1,188,000",
+            "Image": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/62b258f0-c24e-42ed-94cf-ea26a8fe3fdc/kyrie-6-ep-basketball-shoe-CQPDH8.png"
+      },
+      {
+            "Nama": "Jordan 'Why Not?' Zer0.3 SE PF",
+            "Tipe": "Men's Basketball Shoe",
+            "Harga": "Rp 1,188,000",
+            "Image": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/1589aaae-3b50-4b7c-a74e-066bf4a1c7c0/jordan-why-not-zer03-se-pf-basketball-shoe-rZMTBN.png"
+      },
+      {
+            "Nama": "Nike SpeedRep",
+            "Tipe": "Men's Training Shoe",
+            "Harga": "Rp 1,199,000",
+            "Image": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/484587f3-175b-4bb4-812d-a3d89b36710a/speedrep-training-shoe-3XGMTG.png"
+      },
+      {
+            "Nama": "Nike Renew Fusion",
+            "Tipe": "Men's Training Shoe",
+            "Harga": "Rp 1,199,000",
+            "Image": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/6f20ed3f-3369-48e3-8e5f-a8e1554a24ac/renew-fusion-training-shoe-MLRCBB.png"
+      },
+      {
+            "Nama": "Nike Renew Run 2",
+            "Tipe": "Men's Running Shoe",
+            "Harga": "Rp 1,199,000",
+            "Image": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/ffb436c5-2e91-4246-b248-a4a8fd88cd31/renew-run-2-running-shoe-jlw8gb.png"
+      },
+      {
+            "Nama": "Nike SB Zoom Stefan Janoski Canvas RM",
+            "Tipe": "Skate Shoe",
+            "Harga": "Rp 1,199,000",
+            "Image": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/mmr1l1lqkhbzfjdu3c78/sb-zoom-stefan-janoski-canvas-rm-skate-shoe-Q9bXgF.png"
+      },
+      {
+            "Nama": "Nike Mercurial Vapor 14 Academy FG/MG",
+            "Tipe": "Multi-Ground Football Boot",
+            "Harga": "Rp 1,199,000",
+            "Image": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/b03fe2cb-a0bb-49d8-8538-1ad35d125cea/mercurial-vapor-14-academy-fg-mg-multi-ground-football-boot-dhNP1w.png"
+      },
+      {
+            "Nama": "Nike Mercurial Vapor 14 Academy IC",
+            "Tipe": "Indoor/Court Football Shoe",
+            "Harga": "Rp 1,199,000",
+            "Image": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/7d49fe3e-036d-4b50-ad8e-0357f7ec0bd7/mercurial-vapor-14-academy-ic-indoor-court-football-shoe-CB48H9.png"
+      },
+      {
+            "Nama": "Nike Mercurial Vapor 14 Academy TF",
+            "Tipe": "Turf Football Shoe",
+            "Harga": "Rp 1,199,000",
+            "Image": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/5261d83f-d5f3-48a3-bef3-144b3839ddd1/mercurial-vapor-14-academy-tf-football-shoe-37kSzC.png"
+      },
+      {
+            "Nama": "Nike Renew Run",
+            "Tipe": "Men's Running Shoe",
+            "Harga": "Rp 1,199,000",
+            "Image": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/136bb5de-b102-4c5a-af87-3fad78a39e7d/renew-run-running-shoe-RhdGb5.png"
+      },
+      {
+            "Nama": "Nike Blazer Mid '77 Vintage",
+            "Tipe": "Men's Shoe",
+            "Harga": "Rp 1,258,000",
+            "Image": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/b5fff010-3886-4f75-b8a6-969766fa9eca/blazer-mid-77-vintage-shoe-nPJtzc.png"
+      },
+      {
+            "Nama": "Nike Air Max Tailwind V SP",
+            "Tipe": "Men's Shoe",
+            "Harga": "Rp 1,258,000",
+            "Image": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/95b0d643-0b26-4718-b289-3d0f2b7bc670/air-max-tailwind-v-sp-shoe-KLqjDl.png"
+      }
+]
