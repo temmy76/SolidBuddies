@@ -257,6 +257,23 @@
                  </div>
             </div>
        </section>
+       <section id="scraping-2" class="mt-5">
+        <div class="container">
+             <div class="row">
+                  <div class="col-lg-12">
+                       <div class="section-heading">
+                            <h6>Data Scraping 2</h6>
+                            <h2>Data Scraping dari situs : <a href="https://www.nike.com/id/w/mens-shoes-nik1zy7ok?sort=priceAsc/">Nike.com</a> </h2>
+                       </div>
+                  </div>
+             </div>
+             <div class="row">
+                  <div class="col-md-12">
+                       <div id="data_scrapping_2"></div>
+                  </div>
+             </div>
+        </div>
+   </section>
         <!-- Clients-->
                <div class="py-5">
                 <div class="container">
@@ -524,6 +541,26 @@
                  });
             });
         </script>
+        <script type="text/javascript">
+            $(function () {
+                 $.get('scraping.json', function(obj){
+                    var str = "<table class=table>";
+                    str+="<tr><th>No</th><th>Nama</th><th>Tipe</th><th>Harga</th><th>Image</th></tr>";
+
+                    $.each(obj,function(n,data){
+                        str+="<tr><td>"+(n+1)+"</td>";
+                        str+="<td>"+data.Nama+"</td>";
+                        str+="<td>"+data.Tipe+"</td>";
+                        str+="<td>"+data.Harga+"</td>";
+                        str+="<td><img src="+data.Image+" width='192' height='140' />" + "</td>";
+                    });
+
+                    str+="</table>";
+                    $('#data_scrapping_2').html(str);
+                });
+            });
+        </script>
+
        
     </body>
     
