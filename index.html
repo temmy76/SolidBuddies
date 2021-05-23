@@ -15,6 +15,274 @@
         <link href="https://fonts.googleapis.com/css?family=Roboto+Slab:400,100,300,700" rel="stylesheet" type="text/css" />
         <!-- Core theme CSS (includes Bootstrap)-->
         <link href="css/styles.css" rel="stylesheet" />
+        <link rel="stylesheet" type="text/css" href="css/chart.css"/>
+        <script type="text/javascript" src="https://www.gstatic.com/charts/loader.js"></script>
+        <script type="text/javascript">
+
+            // Load the Visualization API and the corechart package.
+            google.charts.load('current', {'packages':['corechart']});
+        
+            // Set a callback to run when the Google Visualization API is loaded.
+            google.charts.setOnLoadCallback(drawChart);
+        
+            // Callback that creates and populates a data table,
+            // instantiates the pie chart, passes in the data and
+            // draws it.
+            function drawChart() {
+            var request = new XMLHttpRequest();
+            request.open("GET", "hasilscraping.json", false);
+            request.send(null)
+            var obj = JSON.parse(request.responseText);
+
+            // Create the data table.
+            var data = new google.visualization.DataTable();
+            data.addColumn('string', 'Amount');
+            data.addColumn('number', 'Colour');
+            var i;
+            for(i = 1; i <= 3; i++){
+                var count = 0;
+                for (const property in obj) {
+                    if(parseInt(obj[property].Warna, 10) == i){
+                    count++;
+                    }
+                }
+                data.addRow([i.toString(), count]);
+            }
+    
+    // Set chart options
+             var options = {'title':'Jumlah Warna per item (by Percentage)',
+                   'titleTextStyle':{
+                      fontSize: 15
+                   },
+                   'width':500,
+                   'height':300,
+                   'tooltip':{
+                       'trigger':'selection'
+                   }};
+
+            // Instantiate and draw our chart, passing in some options.
+            var chart = new google.visualization.PieChart(document.getElementById('pie_chart'));
+            chart.draw(data, options);
+        }
+        </script>
+
+        <script type="text/javascript">
+
+            // Load the Visualization API and the corechart package.
+            google.charts.load('current', {'packages':['corechart']});
+        
+            // Set a callback to run when the Google Visualization API is loaded.
+            google.charts.setOnLoadCallback(drawChart);
+        
+            // Callback that creates and populates a data table,
+            // instantiates the pie chart, passes in the data and
+            // draws it.
+            function drawChart() {
+            var request = new XMLHttpRequest();
+            request.open("GET", "hasilscraping.json", false);
+            request.send(null)
+            var obj = JSON.parse(request.responseText);
+
+            // Create the data table.
+            var data = new google.visualization.DataTable();
+            data.addColumn('string', 'Amount');
+            data.addColumn('number', 'Colour');
+            var i;
+            for(i = 1; i <= 3; i++){
+                var count = 0;
+                for (const property in obj) {
+                    if(parseInt(obj[property].Warna, 10) == i){
+                    count++;
+                    }
+                }
+                data.addRow([i.toString(), count]);
+            }
+    
+    // Set chart options
+             var options = {'title':'Jumlah Warna per item (by Percentage)',
+                   'titleTextStyle':{
+                      fontSize: 15
+                   },
+                   'width':500,
+                   'height':300,
+                   'tooltip':{
+                       'trigger':'selection'
+                   }};
+
+            // Instantiate and draw our chart, passing in some options.
+            var chart = new google.visualization.PieChart(document.getElementById('pie_chart'));
+            chart.draw(data, options);
+        }
+        </script>
+        <script type="text/javascript">
+
+            // Load the Visualization API and the corechart package.
+            google.charts.load('current', {'packages':['corechart']});
+        
+            // Set a callback to run when the Google Visualization API is loaded.
+            google.charts.setOnLoadCallback(drawChart);
+        
+            // Callback that creates and populates a data table,
+            // instantiates the pie chart, passes in the data and
+            // draws it.
+            function drawChart() {
+            var request = new XMLHttpRequest();
+            request.open("GET", "hasilscraping.json", false);
+            request.send(null)
+            var obj = JSON.parse(request.responseText);
+
+            // Create the data table.
+            var data = new google.visualization.DataTable();
+            data.addColumn('string', 'Amount');
+            data.addColumn('number', 'Cost');
+            var i;  
+            for(i = 1; i <= 120; i++){
+                var count1 = 0;
+                var count2 = 0;
+                var count3 = 0;
+           
+
+                for (const property in obj) {
+                    if(parseInt(obj[property].Harga, 10) <= 400000){
+                    count1++;
+                    }else if(parseInt(obj[property].Harga, 10) <= 700000){
+                    count2++;
+                    }else if(parseInt(obj[property].Harga, 10) <= 1000000){
+                    count3++;
+                    }
+                }
+                
+            }
+            data.addRow(["< Rp. 400,000", count1]);
+            data.addRow(["< Rp. 700,000", count2]);
+            data.addRow(["< Rp. 1,500,000", count3]);
+    
+    // Set chart options
+             var options = {'title':'Harga per item',
+                   'titleTextStyle':{
+                      fontSize: 15
+                   },
+                   'width':500,
+                   'height':300,
+                   'tooltip':{
+                       'trigger':'selection'
+                   }};
+
+            // Instantiate and draw our chart, passing in some options.
+            var chart = new google.visualization.BarChart(document.getElementById('bar_chart'));
+            chart.draw(data, options);
+        }
+        </script>
+        <script type="text/javascript">
+
+            // Load the Visualization API and the corechart package.
+            google.charts.load('current', {'packages':['corechart']});
+        
+            // Set a callback to run when the Google Visualization API is loaded.
+            google.charts.setOnLoadCallback(drawChart);
+        
+            // Callback that creates and populates a data table,
+            // instantiates the pie chart, passes in the data and
+            // draws it.
+            function drawChart() {
+            var request = new XMLHttpRequest();
+            request.open("GET", "hasilscraping.json", false);
+            request.send(null)
+            var obj = JSON.parse(request.responseText);
+
+            // Create the data table.
+            var data = new google.visualization.DataTable();
+            data.addColumn('string', 'Amount');
+            data.addColumn('number', 'Colour');
+            var i;
+            for(i = 1; i <= 3; i++){
+                var count = 0;
+                for (const property in obj) {
+                    if(parseInt(obj[property].Warna, 10) == i){
+                    count++;
+                    }
+                }
+                data.addRow([i.toString(), count]);
+            }
+    
+    // Set chart options
+             var options = {'title':'Jumlah Warna per item',
+                   'titleTextStyle':{
+                      fontSize: 15
+                   },
+                   'width':500,
+                   'height':300,
+                   'tooltip':{
+                       'trigger':'selection'
+                   }};
+
+            // Instantiate and draw our chart, passing in some options.
+            var chart = new google.visualization.ColumnChart(document.getElementById('column_chart'));
+            chart.draw(data, options);
+        }
+        </script>
+        <script type="text/javascript">
+
+            // Load the Visualization API and the corechart package.
+            google.charts.load('current', {'packages':['corechart']});
+        
+            // Set a callback to run when the Google Visualization API is loaded.
+            google.charts.setOnLoadCallback(drawChart);
+        
+            // Callback that creates and populates a data table,
+            // instantiates the pie chart, passes in the data and
+            // draws it.
+            function drawChart() {
+            var request = new XMLHttpRequest();
+            request.open("GET", "hasilscraping.json", false);
+            request.send(null)
+            var obj = JSON.parse(request.responseText);
+
+            // Create the data table.
+            var data = new google.visualization.DataTable();
+            data.addColumn('string', 'Amount');
+            data.addColumn('number', 'Cost');
+            var i;  
+            for(i = 1; i <= 120; i++){
+                var count1 = 0;
+                var count2 = 0;
+                var count3 = 0;
+           
+
+                for (const property in obj) {
+                    if(parseInt(obj[property].Harga, 10) <= 400000){
+                    count1++;
+                    }else if(parseInt(obj[property].Harga, 10) <= 700000){
+                    count2++;
+                    }else if(parseInt(obj[property].Harga, 10) <= 1000000){
+                    count3++;
+                    }
+                }
+                
+            }
+            data.addRow(["< Rp. 400,000", count1]);
+            data.addRow(["< Rp. 700,000", count2]);
+            data.addRow(["< Rp. 1,500,000", count3]);
+    
+    // Set chart options
+             var options = {'title':'Harga per item',
+                   'titleTextStyle':{
+                      fontSize: 15
+                   },
+                   'width':500,
+                   'height':300,
+                   'tooltip':{
+                       'trigger':'selection'
+                   }};
+
+            // Instantiate and draw our chart, passing in some options.
+            var chart = new google.visualization.LineChart(document.getElementById('line_chart'));
+            chart.draw(data, options);
+        }
+        </script>
+
+        
+        
     </head>
     <body id="page-top">
         <!-- Navigation-->
@@ -273,7 +541,26 @@
                   </div>
              </div>
         </div>
-   </section>
+        </section>
+    <section id="visualisasi" class="mt-5">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-12 text-center">
+                    <h2>Visualisasi Data</h2>
+                </div>
+            </div>
+            <div class="bar_div">
+                <div class="row">
+                    <div class="col-md-6" id="bar_chart" align="center"></div>
+                    <div class="col-md-6" id="pie_chart" align="center"></div>
+                </div>
+                <div class="row">
+                    <div class="col-md-6" id="column_chart" align="center"></div>
+                    <div class="col-md-6" id="line_chart" align="center"></div>
+                </div>
+            </div>
+        </div>    
+    </section>
         <!-- Clients-->
                <div class="py-5">
                 <div class="container">
@@ -521,6 +808,12 @@
         <script src="assets/mail/contact_me.js"></script>
         <!-- Core theme JS-->
         <script src="js/scripts.js"></script>
+        <script src="https://code.highcharts.com/highcharts.js"></script>
+        <script src="https://code.highcharts.com/modules/exporting.js"></script>
+        <script src="https://code.highcharts.com/modules/export-data.js"></script>
+        <script src="https://code.highcharts.com/modules/accessibility.js"></script>
+
+
         <script type="text/javascript">
             $(function () {
                  $.get('data.json', function (obj) {
@@ -562,9 +855,7 @@
                 });
             });
         </script>
-
-       
-
+        
     </body>
     
 </html>
